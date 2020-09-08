@@ -1,0 +1,36 @@
+.flex-container {
+    display: flex;
+    align-items: stretch;
+}
+.nav_logo {
+    text-align: left;
+}
+
+.nav_area {
+    text-align: right;
+}
+
+.nav_area ul {
+    list-style: none;
+}
+
+.nav_area li {
+    float: right;
+    font-size: 16px;
+    margin: 14px 17px;
+}
+
+a {
+    color: white;
+    text-decoration-line: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #1FD760;
+}
+
+.spotify_logo {
+    height: 40px;
+    margin: 20px 0 0 0;
+}
