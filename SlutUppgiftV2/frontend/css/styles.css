@@ -1,0 +1,229 @@
+/*********************/
+/* Mobile First view */
+/*********************/
+body {
+    margin: 0;
+    padding: 0;
+    color: #C5C6C7;
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+}
+
+/* The hero image */
+.hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (background_img.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("../img/background_img.jpg");
+    /*background-image: url("../img/background_img.jpg");*/
+
+    /* Set a specific height */
+    width: 100vw;
+    height: 100vh;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#albumNavigation {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 1px 1px 2px #0B0C10, 0 0 25px #45A29E, 0 0 5px #66FCF1;
+    font-size: 2em;
+}
+
+.artistButtons {
+    width: 80px;
+    padding: 10px;
+    font-size: 0.8em;
+    margin: 5px;
+    font-family: 'Suez One', serif;
+    border-radius: 20px;
+    background-color: transparent;
+    color: #C5C6C7;
+    border: 2px solid #45A29E;
+}
+
+.artistButtons:hover {
+    background-color: #45A29E;
+    border: 2px solid #C5C6C7;
+}
+
+iframe {
+    width: 356px;
+    height: 200px;
+    border: none;
+}
+
+#displayAlbums {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#albumTitleAndImage {
+    align-content: center;
+}
+
+aside {
+    list-style: none;
+}
+
+#albumImageSrc {
+    width: 360px;
+}
+
+#albumImageSrc:hover {
+    border: 2px solid #45A29E;
+    border-radius: 10px;
+}
+
+.removeBulletsInList {
+    list-style: none;
+}
+
+input {
+    font-size: 1.2em;
+    background-color: inherit;
+    padding: 6px 16px;
+    border-radius: 19px;
+    color: #C5C6C7;
+    border: 2px solid #45A29E;
+    text-align: center;
+}
+
+footer {
+    background-color: #0B0C10;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+    margin-top: 60px;
+}
+
+.footerStyle {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footerLinks {
+    margin: 20px 0;
+    padding: 10px;
+    font-size: 1em;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footerLinks:hover {
+    background-color: #45A29E;
+}
+
+#updateRobotField {
+    width: 160px;
+}
+
+#robotImage {
+    margin-bottom: 20px;
+    /*height: 180px;*/
+}
+
+
+/***************/
+/* Tablet view */
+/***************/
+@media (min-width: 768px) {
+    body {
+        max-width: 778px;
+        margin: 0 auto;
+    }
+
+    .artistButtons {
+        width: 120px;
+        font-size: 1.2em;
+        margin: 5px;
+        border-radius: 20px;
+    }
+
+    #displayAlbums {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    iframe {
+        width: 768px;
+        height: 432px;
+    }
+
+    section {
+        float: left;
+    }
+
+    aside {
+        float: left;
+        margin-left: 100px;
+        text-align: center;
+    }
+
+    #albumImageSrc {
+        width: 400px;
+    }
+
+    footer {
+        padding-top: 20px;
+    }
+
+    .footerStyle li {
+        display: inline;
+    }
+}
+
+/****************/
+/* Desktop view */
+/****************/
+@media (min-width: 1024px) {
+    body {
+        max-width: 1200px;
+    }
+
+    #combinedHeaderNavbar {
+
+    }
+
+    #albumImageSrc {
+        width: 600px;
+    }
+
+    iframe {
+        width: 1024px;
+        height: 576px;
+    }
+
+    footer {
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    .footerStyle li {
+        display: block;
+    }
+
+    .footerLinks {
+        margin: 10px 0;
+        padding: 5px;
+        width: 200px;
+        text-align: center;
+    }
+}
