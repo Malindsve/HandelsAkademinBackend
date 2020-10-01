@@ -1,0 +1,112 @@
+nav {
+    text-align: right;
+    overflow: hidden;
+    font-family: 'Suez One', serif;
+}
+
+nav a {
+    float: right;
+    font-size: 2em;
+    color: #C5C6C7;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/*the sub navigation menu*/
+.subNav {
+    float: right;
+    overflow: hidden;
+    font-family: 'Raleway', sans-serif;
+}
+
+.subNav .subNavButton {
+    font-size: 2em;
+    border: none;
+    outline: none;
+    color: #C5C6C7;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: 'Suez One', serif;
+    margin: 0;
+}
+
+/* Add a backgroundcolor to navigationlinks on hover */
+nav a:hover, .subNav:hover .subNavButton {
+    background-color: #45A29E;
+}
+
+.subNav-content {
+    font-size: 0.75em;
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #45A29E;
+    width: 100%;
+    z-index: 1;
+    padding-right: 17%;
+}
+
+.subNav-content a {
+    float: right;
+    color: white;
+    text-decoration: none;
+}
+
+.subNav-content a:hover {
+    background-color: #66FCF1;
+    color: #0B0C10;
+}
+
+.subNav:hover .subNav-content {
+    display: block;
+}
+
+/*----SubSubNav----*/
+.subSubNav {
+    font-size: 0.75em;
+    float: right;
+    overflow: hidden;
+}
+
+.subSubNav .subSubNavButton {
+    font-size: 2.5em;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+/* Add a backgroundcolor to navigationlinks on hover */
+.subSubNav:hover .subSubNavButton {
+    background-color: #66FCF1;
+    color: #0B0C10;
+}
+
+.subSubNav-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #66FCF1;
+    width: 100%;
+    z-index: 2;
+    padding-right: 17%;
+}
+
+.subSubNav-content a {
+    float: right;
+    color: #0B0C10;
+    text-decoration: none;
+}
+
+.subSubNav-content a:hover {
+    background-color: white;
+    color: #0B0C10;
+}
+
+.subSubNav:hover .subSubNav-content {
+    display: block;
+}

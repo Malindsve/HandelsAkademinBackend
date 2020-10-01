@@ -86,4 +86,31 @@ Should look good on:
 - Save Album info in a JSON file and read dynamic data from two or three Albums. []
 - Search functionality that filter the songs. []
 
+## Rough sketch/idea of final result
+
+### Wireframe
+![image of initial plan](roughPlan.png) 
+
+### Color Scheme
+![image of color scheme](colorScheme.png)
+
+## Resources
+### HTML & CSS
+- Semantic [HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- Navbar - [Subnav](https://www.w3schools.com/howto/howto_css_subnav.asp)
+- Fonts [from google fonts](https://fonts.google.com/)
+- Design [logo](https://www.designevo.com/)
+- Google for [images & track lists](https://www.google.com/)
+- []()
+
+### JavaScript
+- JavaScript HTML DOM [Changing HTML](https://www.w3schools.com/js/js_htmldom_html.asp)
+- JavaScript HTML DOM [EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+- Load JSON file locally using pure [Javascript](https://codepen.io/KryptoniteDove/post/load-json-file-locally-using-pure-javascript)
+- How to use [JSON with JavaScript](https://www.quackit.com/json/tutorial/json_with_javascript.cfm)
+- Build a [JSON file](https://stackoverflow.com/questions/46697129/i-am-trying-to-store-a-music-album-using-json)
+
+### Other
+- [Shields.io](https://shields.io/) for badges in footer to Facebook and other badges
+
 ## Result

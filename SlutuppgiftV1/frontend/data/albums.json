@@ -1,0 +1,153 @@
+{
+  "albums": [
+    {
+      "title": "Ride the lightning",
+      "artist": "Metallica",
+      "image": "../img/metallica.png",
+      "song": [
+        {
+          "title": "Fight Fire with Fire",
+          "duration": "4.45"
+        },
+        {
+          "title": "Ride the Lightning",
+          "duration": "6.36"
+        },
+        {
+          "title": "For Whom the Bell Tolls",
+          "duration": "5.09"
+        },
+        {
+          "title": "Fade to Black",
+          "duration": "6.57"
+        },
+        {
+          "title": "Trapped Under Ice",
+          "duration": "4.04"
+        },
+        {
+          "title": "Escape",
+          "duration": "4.23"
+        },
+        {
+          "title": "Creeping Death",
+          "duration": "6.36"
+        },
+        {
+          "title": "The Call of Ktulu",
+          "duration": "8.53"
+        }
+      ]
+    },
+    {
+      "title": "Nevermind",
+      "artist": "Nirvana",
+      "image": "../img/nirvana.png",
+      "song": [
+        {
+          "title": "Smells Like Teen Spirit",
+          "duration": "5.02"
+        },
+        {
+          "title": "In Bloom - Nevermind Version",
+          "duration": "4.15"
+        },
+        {
+          "title": "Come As You Are",
+          "duration": "3.39"
+        },
+        {
+          "title": "Breed",
+          "duration": "3.04"
+        },
+        {
+          "title": "Lithium",
+          "duration": "4.17"
+        },
+        {
+          "title": "Polly",
+          "duration": "2.54"
+        },
+        {
+          "title": "Territorial Pissings",
+          "duration": "2.23"
+        },
+        {
+          "title": "Drain You",
+          "duration": "3.44"
+        },
+        {
+          "title": "Lounge Act",
+          "duration": "2.36"
+        },
+        {
+          "title": "Stay Away",
+          "duration": "3.31"
+        },
+        {
+          "title": "On A Plain",
+          "duration": "3.14"
+        },
+        {
+          "title": "Something In The Way",
+          "duration": "4.45"
+        },
+        {
+          "title": "Endless, Nameless",
+          "duration": "6.43"
+        }
+      ]
+    },
+    {
+      "title": "Ballbreaker",
+      "artist": "AC/DC",
+      "image": "../img/acdc.png",
+      "song": [
+        {
+          "title": "Hard as a Rock",
+          "duration": "4.31"
+        },
+        {
+          "title": "Cover You in Oil",
+          "duration": "4.33"
+        },
+        {
+          "title": "The Furor",
+          "duration": "4.11"
+        },
+        {
+          "title": "Boogie Man",
+          "duration": "4.07"
+        },
+        {
+          "title": "The Honey Roll",
+          "duration": "5.35"
+        },
+        {
+          "title": "Burnin' Alive",
+          "duration": "5:06"
+        },
+        {
+          "title": "Hail Caesar",
+          "duration": "5.14"
+        },
+        {
+          "title": "Love Bomb",
+          "duration": "3.14"
+        },
+        {
+          "title": "Caught with Your Pants Down",
+          "duration": "4.15"
+        },
+        {
+          "title": "Whiskey on the Rocks",
+          "duration": "4.35"
+        },
+        {
+          "title": "Ballbreaker",
+          "duration": "4:31"
+        }
+      ]
+    }
+  ]
+}
