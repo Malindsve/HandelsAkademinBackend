@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\HandelsAkademinBackend\\cSharp\\Inlämning\\PragueParking\\PragueParking1.0\\PragueParking1.0.csproj",
+      "projectUniqueName": "D:\\GitHub\\HandelsAkademinBackend\\cSharp\\PragueParking\\PragueParking1.0\\PragueParking1.0.csproj",
       "projectName": "PragueParking1.0",
-      "projectPath": "D:\\GitHub\\HandelsAkademinBackend\\cSharp\\Inlämning\\PragueParking\\PragueParking1.0\\PragueParking1.0.csproj",
+      "projectPath": "D:\\GitHub\\HandelsAkademinBackend\\cSharp\\PragueParking\\PragueParking1.0\\PragueParking1.0.csproj",
       "packagesPath": "C:\\Users\\smult\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\HandelsAkademinBackend\\cSharp\\Inlämning\\PragueParking\\PragueParking1.0\\obj\\",
+      "outputPath": "D:\\GitHub\\HandelsAkademinBackend\\cSharp\\PragueParking\\PragueParking1.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\smult\\AppData\\Roaming\\NuGet\\NuGet.Config",
