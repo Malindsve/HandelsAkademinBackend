@@ -1,0 +1,13 @@
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\bin\Debug\netcoreapp3.1\PragueParkingMalin.exe
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\bin\Debug\netcoreapp3.1\PragueParkingMalin.deps.json
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\bin\Debug\netcoreapp3.1\PragueParkingMalin.runtimeconfig.json
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\bin\Debug\netcoreapp3.1\PragueParkingMalin.runtimeconfig.dev.json
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\bin\Debug\netcoreapp3.1\PragueParkingMalin.dll
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\bin\Debug\netcoreapp3.1\PragueParkingMalin.pdb
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\obj\Debug\netcoreapp3.1\PragueParkingMalin.csprojAssemblyReference.cache
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\obj\Debug\netcoreapp3.1\PragueParkingMalin.AssemblyInfoInputs.cache
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\obj\Debug\netcoreapp3.1\PragueParkingMalin.AssemblyInfo.cs
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\obj\Debug\netcoreapp3.1\PragueParkingMalin.csproj.CoreCompileInputs.cache
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\obj\Debug\netcoreapp3.1\PragueParkingMalin.dll
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\obj\Debug\netcoreapp3.1\PragueParkingMalin.pdb
+D:\GitHub\HandelsAkademinBackend\Rider\ConsoleApp1\PragueParkingMalin\obj\Debug\netcoreapp3.1\PragueParkingMalin.genruntimeconfig.cache

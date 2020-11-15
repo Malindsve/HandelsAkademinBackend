@@ -1,0 +1,13 @@
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\bin\Debug\netcoreapp3.1\BedDemo.exe
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\bin\Debug\netcoreapp3.1\BedDemo.deps.json
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\bin\Debug\netcoreapp3.1\BedDemo.runtimeconfig.json
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\bin\Debug\netcoreapp3.1\BedDemo.runtimeconfig.dev.json
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\bin\Debug\netcoreapp3.1\BedDemo.dll
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\bin\Debug\netcoreapp3.1\BedDemo.pdb
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\obj\Debug\netcoreapp3.1\BedDemo.csprojAssemblyReference.cache
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\obj\Debug\netcoreapp3.1\BedDemo.AssemblyInfoInputs.cache
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\obj\Debug\netcoreapp3.1\BedDemo.AssemblyInfo.cs
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\obj\Debug\netcoreapp3.1\BedDemo.csproj.CoreCompileInputs.cache
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\obj\Debug\netcoreapp3.1\BedDemo.dll
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\obj\Debug\netcoreapp3.1\BedDemo.pdb
+D:\GitHub\HandelsAkademinBackend\cSharp\BedDemo\BedDemo\obj\Debug\netcoreapp3.1\BedDemo.genruntimeconfig.cache

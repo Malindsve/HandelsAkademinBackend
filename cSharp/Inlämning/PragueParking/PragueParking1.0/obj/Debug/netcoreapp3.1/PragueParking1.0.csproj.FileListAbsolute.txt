@@ -1,0 +1,13 @@
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\obj\Debug\netcoreapp3.1\PragueParking1.0.csprojAssemblyReference.cache
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\obj\Debug\netcoreapp3.1\PragueParking1.0.AssemblyInfoInputs.cache
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\obj\Debug\netcoreapp3.1\PragueParking1.0.AssemblyInfo.cs
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\obj\Debug\netcoreapp3.1\PragueParking1.0.csproj.CoreCompileInputs.cache
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\bin\Debug\netcoreapp3.1\PragueParking1.0.exe
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\bin\Debug\netcoreapp3.1\PragueParking1.0.deps.json
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\bin\Debug\netcoreapp3.1\PragueParking1.0.runtimeconfig.json
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\bin\Debug\netcoreapp3.1\PragueParking1.0.runtimeconfig.dev.json
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\bin\Debug\netcoreapp3.1\PragueParking1.0.dll
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\bin\Debug\netcoreapp3.1\PragueParking1.0.pdb
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\obj\Debug\netcoreapp3.1\PragueParking1.0.dll
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\obj\Debug\netcoreapp3.1\PragueParking1.0.pdb
+D:\GitHub\HandelsAkademinBackend\Rider\PragueParking\PragueParking1.0\obj\Debug\netcoreapp3.1\PragueParking1.0.genruntimeconfig.cache
