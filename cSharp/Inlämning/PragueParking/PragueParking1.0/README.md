@@ -4,7 +4,7 @@
 ####Background
 The client wants a parkingsystem for a parkinglot at the castle in Prague.
 The parkinglot is a valet parking.
-The customer leaves their keys and vehicle and gets a receipt wich gives them the right to claim their vehicle.  
+The customer leaves their vehicle and can claim their vehicle by listing their registration number.  
 The parkinglot is ran by young students and pensioners so it must be a very simple system.
 The parkinglot accepts both cars and motorcycles.
 All vehicles must be claimed before 12pm, when the parkinglot closes.
@@ -17,7 +17,8 @@ Unclaimed vehicles will be driven to a parkinglot outside of the city and the cu
 - Search for a vehicle.
 - The customer wants a textbased menu.
 
-The data does not need to be saved at the moment. The computer turns on when the parking opens and turns off when you go home.
+The data does not need to be saved at the moment. 
+The computer turns on when the parking opens and turns off when you go home.
 
 
 #### Tecnical demands
@@ -27,10 +28,10 @@ The data does not need to be saved at the moment. The computer turns on when the
 - One space can be:
     - empty
     - hold 1 car
-    - hold 2 motorcycles
+    - hold up to 2 motorcycles
 - The parkingspaces should be handled with one-dimensional string arrays.
 - The Array should handle 100 elements.
-- The clients employees accepts the spades to be numbered 1-100 in the system.
+- The clients employees wants the spaces to be numbered 1-100 in the system.
 
 
 ## Grade G
@@ -41,16 +42,17 @@ The data does not need to be saved at the moment. The computer turns on when the
 
 
 ### Plan
-Menu for parking (Switch/if statements)
-- Recieve vehicle, input with registration number
-    - Choose parking
-- Move vehicles (index)
-- Search vehicle (index)
-    - Check if it's avaliable
-- Easy to use
-- Handle vehicles that hasn't been claimed.
-
-### Resources
+- Menu with switch-statements
+    - Make sure it handles other not listed numbers, NaN - "enter"
+- Array with 100 empty elements
+- Function to add vehicle with registration number (max 10char)
+    - change to .lower
+- Function to add 1 car or 2 mc (in one place)
+- Function to remove vehicle with registration number
+- Function to move vehicle with registration number
+- Search for vehicle with index (add one to make sure parkingspots are numbered 1-100)
+- Map of garage to show where vehicles are parked (10x10 grid)
+- Exit program and clear array for next use
 
 
 
